@@ -1,0 +1,39 @@
+header {
+  background-color: #444;
+}
+
+nav{
+  flex-direction: row;
+}
+
+main {
+  width: 960px;
+  margin: auto;
+
+}
+
+li {margin-inline: blue;
+
+}
+
+p {
+  font-size: x-small;
+  font-style: sans serif;
+  height: 300px;
+  overflow: auto;
+  word-wrap: right;
+}
+
+button {
+  transition: 350ms;
+}
+
+button:hover {
+  background-color: green;
+}
+
+footer {
+  background-color: #444;
+  height: 50px;
+  margin: auto;
+}
